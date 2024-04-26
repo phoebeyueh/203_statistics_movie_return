@@ -12,7 +12,7 @@ Does producing a horror film over other genres lead to a higher ROI?
 
 #### Method: Classical Linear Model 
 
-#### Result: Regression Tablea 
+#### Result: Regression Table
 <img width="618" alt="Screen Shot 2024-04-26 at 1 47 31 PM" src="https://github.com/phoebeyueh/203_statistics_movie_return/assets/130858240/9cdbaeef-9297-4eb9-80d5-08384c43e11c">
 
 ## 🔑 Key Findings 
