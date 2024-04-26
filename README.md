@@ -8,7 +8,8 @@ This study examines the characteristics of films released between 2000 and 2019.
 Does producing a horror film over other genres lead to a higher ROI?
 
 ## 🔢 Dataset & Methodology 
-#### Dataset: the-numbers.com
+#### Dataset: 
+Source: https://the-numbers.com/movie/budgets/all
 
 #### Method: Classical Linear Model 
 
