@@ -5,7 +5,7 @@ I completed this project as part of the Introduction to Statistics class at UC B
 This study examines the characteristics of films released between 2000 and 2019. By examining several characteristics of movies through the Classical Linear Model (CLM) and its statistical/structural limitations, we aim to determine the causal change in return on investment (ROI) in the production budget related to the genre being horror, checking also for the causal factors like seasonality of release, movie age rating (MPAA rating), and whether a picture was distributed by a high-market-share studio. Through this project, we aim to provide guidance in making better decisions about a company's cinematic investments.
 
 ## ❓ Research Questions
-Do Democratic voters or Republican voters experience more difficulty voting?
+Does producing a horror film over other genres lead to a higher ROI?
 
 ## 🔢 Dataset & Methodology 
 #### Dataset: the-numbers.com
